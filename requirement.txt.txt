@@ -1,0 +1,15 @@
+livekit
+livekit-agents[mcp]
+livekit-agents[elevenlabs]~=1.2
+livekit-agents[silero]~=1.2
+livekit-agents[turn-detector]~=1.2
+livekit-agents[mcp]~=1.2
+livekit-agents[openai]
+mysql-connector-python
+livekit-plugins-noise-cancellation~=0.2
+livekit-agents[aws]~=1.2
+livekit-agents[assemblyai]~=1.2
+livekit-agents[cartesia]~=1.2
+sqlalchemy
+pandas
+psycopg2
